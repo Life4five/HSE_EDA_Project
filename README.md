@@ -12,5 +12,8 @@
 
 Далее идёт подготовка презентации и выступление перед комиссией.
 
+Google Collab: https://colab.research.google.com/drive/1aqZGhNiON2LEoMPAUQq2gobY8FpCW3-n?usp=sharing
 ## Данные:
-- 
+- NetflixShows.xlsx — Исходные данные
+- netflix_titles.csv — Датасет из Kaggle (ссылка в коллабе)
+- api_data.csv — Собранные данные через API кинопоиска
